@@ -5,4 +5,4 @@ https://readme-typing-svg.demolab.com/demo/?font=Spectral&size=16&duration=2000&
 --->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acroscopic)](https://github.com/acroscopic/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acroscopic&layout=compact))](https://github.com/acroscopic/github-readme-stats)
