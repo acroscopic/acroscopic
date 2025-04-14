@@ -13,6 +13,7 @@
 </pre>
 <br>
 
+[![](https://img.shields.io/badge/Personal&Website-AF2B1E)](https://damienkoon.com/)
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/damienkoon)
 [![](https://img.shields.io/badge/Chess-8CA464)](https://www.chess.com/member/equilibrize)
 
