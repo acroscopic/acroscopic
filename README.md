@@ -7,7 +7,7 @@
 <br>
 <pre>
   B.S. Physics || Florida Tech 2027 ⚛
-  B.S. Astronomy and Astrophysics || Florida Tech 2027 ∘˚⊹
+  B.S. Applied Mathematics || Florida Tech 2027 ∘˚⊹
   Florida Tech Ortega Observatory Assistant 🪐🔭
 </pre>
 <br>
